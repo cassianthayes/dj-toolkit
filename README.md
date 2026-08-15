@@ -5,7 +5,7 @@ A small CLI for downloading tracks from Yandex Music to keep your DJ library fre
 ## Install
 
 ```sh
-uv sync
+uv tool install https://github.com/cassianthayes/dj-toolkit.git
 ```
 
 ## Usage
