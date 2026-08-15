@@ -1,6 +1,12 @@
 # dj-toolkit
 
-A small CLI for downloading tracks from Yandex Music to keep your DJ library fresh. This is AI generated, use at your own risk.
+A small CLI for downloading tracks from Yandex Music to keep your DJ library fresh.
+
+You need to login with your Yandex Music token, obtain via [yandex-music-token](https://addons.mozilla.org/en-US/firefox/addon/yandex-music-token/).
+
+This CLI downloads tracks without tags and album art.
+
+This is AI generated, use at your own risk.
 
 ## Install
 
